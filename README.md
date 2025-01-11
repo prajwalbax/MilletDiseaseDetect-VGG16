@@ -58,7 +58,7 @@ Ensure you have the following installed:
 ### 2. **Steps to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prajwalbax/MilletDiseaseVision---VGG16-.git
+   git clone https://github.com/prajwalbax/MilletDiseaseDetect-VGG16.git
    ```
 2. Navigate to the project directory:
    ```bash
