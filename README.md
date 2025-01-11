@@ -132,8 +132,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions, feedback, or collaboration, feel free to reach out:
-- **Email**: your-email@example.com
-- **LinkedIn**: [prajwalbax](https://www.linkedin.com/in/prajwal-bax/))
+- **Email**: prajwalbax@gmail.com
+- **LinkedIn**: [prajwalbax](https://www.linkedin.com/in/prajwal-bax/)
 - **GitHub**: [prajwalbax](https://github.com/prajwalbax)
 
 Let's empower sustainable agriculture together!
