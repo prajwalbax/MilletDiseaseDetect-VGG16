@@ -77,25 +77,21 @@ Ensure you have the following installed:
 
 ---
 ## List of disease detected:
-1. Healthy: 
-   ![2a881a07eac63bfb5f1859283c7934a075e89888](https://github.com/user-attachments/assets/46f4f627-5b8e-4d62-977d-1e1266f14937)
+
+1. Smut 
+2. Seedling
    
-2. Downy mildew:
-   ![ff01a0f1b91af72971e678b3c7e77ff8ea1e3a62](https://github.com/user-attachments/assets/e08adffa-7be6-46b8-a7dd-bd3988526ead)
+![IMG-20240822-WA0001](https://github.com/user-attachments/assets/9844efc6-7a08-4ac5-b1bd-5ae396ce52c3)
+
+3. Healthy
+4. Downy Mildew
    
-3. Mottle streak:
-![4f5e8c462c7577a88bd11c821a41afb87d62b548](https://github.com/user-attachments/assets/92f8799e-6324-4467-b258-824e9d8397bb)
+![IMG-20240822-WA0002](https://github.com/user-attachments/assets/ac09d1b5-f93a-4632-b249-0c4b5ae4a7e7)
 
-4. Seedling:
-![89b01feecbda1be09c5ae083f586703980e2c939](https://github.com/user-attachments/assets/35d20be6-bbcc-40d7-bb40-09e2bab1fbd3)
+5. Wilt
+6. Mottle streak
 
-5. Wilt:
-![0620938489481050bac02b97ac21989b93abe6d2](https://github.com/user-attachments/assets/4462c786-00da-4b4e-89bf-071e79032896)
-
- 6. Smut:
-    ![a1cae5e80eef9cd9d9b3570a8c62b81b54af37b7](https://github.com/user-attachments/assets/5017763b-4513-4a9d-9e1a-3d45126410d5)
-
-
+![IMG-20240822-WA0003](https://github.com/user-attachments/assets/bcb0ae2b-b6eb-48fd-bae4-b96db735c658)
 
 
 
